@@ -22,10 +22,7 @@
 - 🤖 Focused on **Agentic AI**, **Deep Learning**, **NLP**, and **Backend Systems**
 - 🛠️ ~1–2 years of hands-on experience building and deploying ML/AI systems
 - ☁️ Experience deploying projects on **AWS**
-- 🔌 Have integrated the **Ollama Cloud API** into several projects
-- 📍 Based in Kathmandu, Nepal
 
-> *"It's not a bug, it's an emergent agentic behavior."*
 
 <br>
 
@@ -46,16 +43,7 @@
 
 <br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adkdev200&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkdev200&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adkdev200&theme=radical&hide_border=true&background=0D1117" />
-</div>
 
 <br>
 
