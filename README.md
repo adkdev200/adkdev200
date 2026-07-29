@@ -7,10 +7,10 @@
 <br>
 
 <a href="https://adhikaridev.com.np"><img src="https://img.shields.io/badge/Portfolio-adhikaridev.com.np-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/adkdev200-ops"><img src="https://img.shields.io/badge/GitHub-adkdev200--ops-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/adkdev200"><img src="https://img.shields.io/badge/GitHub-adkdev200--ops-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/adkdev200/"><img src="https://img.shields.io/badge/LinkedIn-adkdev200-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=adkdev200-ops&style=for-the-badge&color=8E44AD&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=adkdev200&style=for-the-badge&color=8E44AD&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -71,16 +71,16 @@ def train_model():
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adkdev200-ops&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkdev200-ops&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adkdev200&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkdev200&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adkdev200-ops&theme=radical&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adkdev200&theme=radical&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adkdev200-ops&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adkdev200&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
 
 <br>
@@ -88,7 +88,7 @@ def train_model():
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/adkdev200-ops/adkdev200-ops/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/adkdev200/adkdev200/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 <br>
@@ -98,7 +98,7 @@ def train_model():
 <div align="center">
 
 <a href="https://adhikaridev.com.np"><img src="https://img.shields.io/badge/Portfolio-adhikaridev.com.np-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/adkdev200-ops"><img src="https://img.shields.io/badge/GitHub-adkdev200--ops-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/adkdev200"><img src="https://img.shields.io/badge/GitHub-adkdev200--ops-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/adkdev200/"><img src="https://img.shields.io/badge/LinkedIn-adkdev200-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
